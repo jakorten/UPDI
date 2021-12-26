@@ -12,7 +12,7 @@ Both can be used to connect e.d. a Atmel ICE programmer as it comes with a cable
 See also: https://microchipdeveloper.com/atmelice:updi
 
 Pinout for the 6 PIN header:
-[img]https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_6POL.png[/img]
+[6 PIN header schematics](https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_6POL.png)
 
 Pinout for the 10 PIN header:
-[img]https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_10POL.png[/img]
+[10 PIN header schematics](https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_10POL.png)
