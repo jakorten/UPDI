@@ -13,8 +13,9 @@ See also: https://microchipdeveloper.com/atmelice:updi
 
 Pinout for the 6 PIN header:<br>
 <img src="https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_6POL.png" alt="6-PIN header schematics" title="6 PIN interface" width="300"/>
-![6-PIN header schematics](https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_6POL.pn){ width=60%,height:30px }
+![6-PIN header schematics](https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_6POL.png){ width=60%,height:30px }
 
 
 Pinout for the 10 PIN header:<br>
 <img src="https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_10POL.png" alt="10-PIN header schematics" title="10 PIN interface" width="300"/>
+![10-PIN header schematics](https://github.com/jakorten/UPDI/blob/main/UPDI_ATMEL_ICE_10POL.png){ width=60%,height:30px }
